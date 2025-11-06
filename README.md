@@ -1,9 +1,13 @@
 Processes/filters data from Cities.csv
 
 File structure:
+
 oop_lab_1/
+
 |-- README.md            # This file
+
 |-- Cities.csv           # The dataset
+
 |-- data_processing.py   # The analysis code
 
 DataLoader loads data from Cities.csv in the same directory as the Python file.
